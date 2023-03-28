@@ -1,0 +1,18 @@
+{
+  "name": "andre-souza539/buscador-curso",
+  "description": "projeto que busca cursos no site da alura",
+  "minimum-stability": "stable",
+  "type": "library",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "André Souza",
+      "email": "aljs.junca@gmail.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "^7.5",
+    "symfony/dom-crawler": "^6.2",
+    "symfony/css-selector": "^6.2"
+  }
+}
